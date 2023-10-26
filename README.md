@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Chris Borquez</h1>
 <h3 align="center">A passionate Programmer and Info-Sys Major</h3>
 
